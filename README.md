@@ -94,12 +94,9 @@ URL:      http://192.168.4.1
 
 ```
 esp8266-ctf-sinhala/
-├── firmware/
-│   └── ctf_firmware.ino       # Main Arduino sketch
-├── docs/
-│   └── ESP8266_CTF_Sinhala.pdf   # Full Sinhala guide (PDF)
-├── guide/
-│   └── ESP8266_CTF_Sinhala.docx  # Full Sinhala guide (Word)
+├── nodemcuCTF/
+│   └── nodemcuCTF.ino       # Main Arduino sketch
+├── ESP8266_CTF_Sinhala.docx  # Full Sinhala guide (Word)
 └── README.md
 ```
 
